@@ -23,7 +23,7 @@ const newone="  shaleen  "
 console.log(newone.trim());
 
 let url="https://kumarshaleen#20.com"
-console.log(url.replace('%20','-'));
+console.log(url.replace('#20','-'));
 
 console.log(url.includes('sundar'));
 
